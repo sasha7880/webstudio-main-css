@@ -141,11 +141,11 @@ ul {
   width: 78px;
   height: 4px;
 }
-/*Changes Zahar*/
+
 .header-list{
   display: flex;
   align-items: center;
-  gap: 32px;            /* відстань між email та телефоном */
+  gap: 32px;           
 }
 
 .header-item{
